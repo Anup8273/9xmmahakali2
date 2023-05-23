@@ -1,13 +1,13 @@
-### Powered By @MrKhunii 
+### Powered By @brahmaan_sher 
 
-### Join @Khuni_X_Villan_Server For More Update
+### Join @mistyamraj_ki_kahani For More Update
 
-### Join @Dil_se_dil_tak_01 For Sayri
+### Join @best_friends_chatting_grup For Sayri
 
-### Join Our Chats @lovingfriendsforever 
+### Join Our Chats @bhuteya_club
 
 
-### Powered By [@MrKhunii](https://t.me/MrKhunii)
+### Powered By [@MrKhunii](https://t.me/brahmaan_sher)
 
 
 ### ABOUT THIS BOT
@@ -24,13 +24,13 @@
 [Kaali Linux](https://youtu.be/_nZT5lhcL8U)
 
 ## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭
-[Khuni](https://t.me/MrKhunii)
+[Khuni](https://t.me/brahmaan_sher)
 
 ## Telegram 🏪
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/lovingfriendsforever)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/best_friends_chatting_grup)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Dil_se_dil_tak_01)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/mistyanran_ki_kahani)
 
 
 
@@ -38,7 +38,7 @@
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/KhuniVillan/KhuniPlayer)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Anup8273/9xmmahakali2)
 
 ## VPS DEPLOY                                                                                          
 💥 𝐎𝐧𝐥𝐲 𝐅𝐨𝐫 𝐅𝐢𝐫𝐬𝐭 𝐓𝐢𝐦𝐞 (𝐕𝐏𝐒) 💞
