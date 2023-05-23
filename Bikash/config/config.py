@@ -15,15 +15,15 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ ! .").split())
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "❰𝗞𝗵𝘂𝗻𝗶 𝗫 𝗠𝘂𝘀𝗶𝗰❱")
-OWNER_ID = list(map(int, getenv("OWNER_ID", "5230338052").split()))
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "❰9𝑿𝑴 𝗠𝘂𝘀𝗶𝗰❱")
+OWNER_ID = list(map(int, getenv("OWNER_ID", "5379949226").split()))
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/KhuniVillan/KhuniPlayer")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Anup8273/9xmmahakali2")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "bikash")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Dil_se_dil_tak_01")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/lovingfriendsforever")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/mistyamraj_ki_kahani")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/best_friends_chatting_grup")
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "1800000"))
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "1800"))
@@ -54,7 +54,7 @@ STRING5 = getenv("STRING_SESSION5", None)
 
 ############################
 COMMAND_PREFIXES.append('')
-OWNER_ID.append(5230338052)
+OWNER_ID.append(5379949226)
 ############################
 BANNED_USERS = filters.user()
 YTDOWNLOADER = 1
@@ -68,20 +68,20 @@ clean = {}
 autoclean = []
 ############################
 
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/185978d3d6c2beff97073.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://graph.org/file/a1485c66e31dfeb995bf6.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/ac6a38881941065b8a1fb.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://graph.org/file/76ea55ef5c8197cd4e606.jpg")
 
-PLAYLIST_IMG_URL = "https://graph.org/file/185978d3d6c2beff97073.jpg"
-GLOBAL_IMG_URL = "https://graph.org/file/a1485c66e31dfeb995bf6.jpg"
-STATS_IMG_URL = "https://graph.org/file/185978d3d6c2beff97073.jpg"
-TELEGRAM_AUDIO_URL = "https://graph.org/file/d68f9ff85714d4dbc6069.png"
-TELEGRAM_VIDEO_URL = "https://graph.org/file/d68f9ff85714d4dbc6069.png"
-STREAM_IMG_URL = "https://graph.org/file/93882ae5ea01a7bf687b1.jpg"
-SOUNCLOUD_IMG_URL = "https://graph.org/file/0d021735560cbf0bb749a.jpg"
-YOUTUBE_IMG_URL = "https://graph.org/file/4a8cc770a5bea2136bada.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/8427fca139bcbf3c54bcb.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/8427fca139bcbf3c54bcb.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/8427fca139bcbf3c54bcb.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/7b39acb6eede7147d3183.jpg"
+GLOBAL_IMG_URL = "https://graph.org/file/ac6a38881941065b8a1fb.jpg"
+STATS_IMG_URL = "https://graph.org/file/ac6a38881941065b8a1fb.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/ac6a38881941065b8a1fb.jpg"
+TELEGRAM_VIDEO_URL = "https://graph.org/file/ac6a38881941065b8a1fb.jpg"
+STREAM_IMG_URL = "https://graph.org/file/ac6a38881941065b8a1fb.jpg"
+SOUNCLOUD_IMG_URL = "https://graph.org/file/ac6a38881941065b8a1fb.jpg"
+YOUTUBE_IMG_URL = "https://graph.org/file/ac6a38881941065b8a1fb.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/ac6a38881941065b8a1fb.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/ac6a38881941065b8a1fb.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/ac6a38881941065b8a1fb.jpg"
 
 
 def time_to_seconds(time):
