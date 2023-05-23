@@ -43,8 +43,8 @@
         "required": true
       },
       "SUPPORT_GROUP": {
-        "description": "Input Your Support Group with Full Link like https://t.me/best_frienfs_chatting_grup",
-        "value": "https://t.me/lovingfriendsforever",
+        "description": "Input Your Support Group with Full Link like https://t.me/best_friends_chatting_grup",
+        "value": "https://t.me/best_friends_chatting_grup",
         "required": true
       },
       "SUPPORT_CHANNEL": {
