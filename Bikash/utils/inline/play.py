@@ -174,7 +174,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [           
             InlineKeyboardButton(
-                text="📱 𝗢𝘄𝗻𝗲𝗿 📱", url=f"https://t.me/MrKhunii"
+                text="📱 𝗢𝘄𝗻𝗲𝗿 📱", url=f"https://t.me/brahmaan_sher"
             )
         ],
         [
