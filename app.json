@@ -1,7 +1,7 @@
 {
-    "name": "Khuni X Music",
+    "name": "9𝐱𝐦 Music",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/185978d3d6c2beff97073.jpg",
+    "logo": "https://graph.org/file/ac6a38881941065b8a1fb.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -34,22 +34,22 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters",
-        "value": "🌟⃝🌸𓆩𝗞𝗵𝘂𝗻𝗶 𝗫 𝗠𝘂𝘀𝗶𝗰𓆪💫⃟👑 ",
+        "value": "🌟⃝🌸9𝐗𝐌 𝗠𝘂𝘀𝗶𝗰𓆪💫⃟👑 ",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5230338052",
+        "value": "5379949226",
         "required": true
       },
       "SUPPORT_GROUP": {
-        "description": "Input Your Support Group with Full Link like https://t.me/lovingfriendsforever",
+        "description": "Input Your Support Group with Full Link like https://t.me/best_frienfs_chatting_grup",
         "value": "https://t.me/lovingfriendsforever",
         "required": true
       },
       "SUPPORT_CHANNEL": {
         "description": "Input Your Support Channel full link ",
-        "value": "https://t.me/Dil_se_dil_tak_01",
+        "value": "https://t.me/mistyamraj_ki_kahani",
         "required": true
       },
       "STRING_SESSION": {
