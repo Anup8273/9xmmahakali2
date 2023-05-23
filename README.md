@@ -52,7 +52,7 @@
 4) nvm install node
 
 5. Clone the Repository :
-git clone https://github.com/KhuniVillan/KhuniPlayer &&  cd KhuniPlayer
+git clone https://github.com/Anup8273/9xmmahakali2 &&  cd KhuniPlayer
 
 6. Install Installer : 
 pip3 install -r Installer
@@ -70,10 +70,10 @@ python3 -m modules
 #### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![MrKhunii](https://graph.org/file/a1485c66e31dfeb995bf6.jpg)](https://t.me/MrKhunii)
+[![MRYAMRAJ](https://graph.org/file/a1485c66e31dfeb995bf6.jpg)](https://t.me/brahmaan_sher)
 
 
-#### Main Developer = [MrKhunii](https://t.me/MrKhunii)
+#### Main Developer = [mryamraj](https://t.me/brahmaan_sher)
 
 ## 💕 Special Thanks
 
@@ -85,4 +85,4 @@ python3 -m modules
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 
-## 🥀 Powered By [MrKhunii](https://t.me/MrKhunii) 
+## 🥀 Powered By [Mryamraj](https://t.me/brahmaan_sher) 
